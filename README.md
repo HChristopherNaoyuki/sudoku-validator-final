@@ -20,7 +20,7 @@ This project provides a Java implementation of a Sudoku validator that checks if
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HChristopherNaoyuki/SodokuValidator.git
+   git clone https://github.com/HChristopherNaoyuki/sudoku-validator-final.git
    cd sudoku-validator
    ```
 
