@@ -65,7 +65,7 @@ After running the program, enter a 9x9 Sudoku grid, with numbers separated by sp
 
 ### Example Output
 ```
-Invalid solution
+Valid solution
 ```
 
 ## Testing
